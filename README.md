@@ -1,2 +1,2 @@
 # SQL-Portfolio
-COVID-19 Analysis Project using SSMS
+COVID-19 Analysis Project using SQL
